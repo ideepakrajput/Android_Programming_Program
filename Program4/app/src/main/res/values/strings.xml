@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Program 4</string>
+    <string-array name="items">
+        <item>Book</item>
+        <item>Animal</item>
+        <item>Car</item>
+        <item>Lab</item>
+    </string-array>
+</resources>

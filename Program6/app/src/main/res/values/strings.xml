@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Program 6</string>
+    <string name="biomedical">Teacher-in-Charge : Harendra Sir</string>
+    <string name="chemistry">Teacher-in-Charge : Sandeep Sir</string>
+    <string name="computer">Teacher-in-Charge : Jayant Sir</string>
+    <string name="food">Teacher-in-Charge : Jitendra Sir</string>
+    <string name="geography">Teacher-in-Charge : Mahesh Sir</string>
+    <string name="hindi">Teacher-in-Charge : Harikesh Sir</string>
+    <string name="maths">Teacher-in-Charge : Ragini Mam</string>
+    <string name="physics">Teacher-in-Charge : Ramesh Sir</string>
+    <string name="courses">Courses of My College</string>
+</resources>

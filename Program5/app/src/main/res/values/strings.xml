@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Program 5</string>
+    <string name="home">Home</string>
+    <string name="about">About</string>
+    <string name="contact">Contact</string>
+    <string name="help">Help</string>
+    <string name="suggest">Suggest</string>
+</resources>
