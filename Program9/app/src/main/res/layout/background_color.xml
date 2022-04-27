@@ -7,22 +7,24 @@
 
     <Button
         android:id="@+id/changeFragment"
+        style="?android:attr/buttonBarButtonStyle"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+        android:backgroundTint="#3949AB"
         android:text="@string/change_fragment"
         app:layout_constraintBottom_toTopOf="@+id/reset"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.911"
-        style="?android:attr/buttonBarButtonStyle" />
+        app:layout_constraintVertical_bias="0.911" />
 
     <Button
         android:id="@+id/reset"
         style="?android:attr/buttonBarButtonStyle"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginBottom="36dp"
+        android:layout_marginBottom="32dp"
+        android:backgroundTint="#E53935"
         android:text="@string/reset"
         app:layout_constraintBottom_toTopOf="@+id/changebackgroundcolor"
         app:layout_constraintEnd_toEndOf="parent"
@@ -31,13 +33,14 @@
 
     <Button
         android:id="@+id/changebackgroundcolor"
+        style="?android:attr/buttonBarButtonStyle"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginBottom="88dp"
+        android:backgroundTint="#43A047"
         android:text="@string/change_background_color"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.496"
-        app:layout_constraintStart_toStartOf="parent"
-        style="?android:attr/buttonBarButtonStyle" />
+        app:layout_constraintStart_toStartOf="parent" />
 </androidx.constraintlayout.widget.ConstraintLayout>

@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Program 9</string>
+    <string name="fragment_in_android">Fragment in Android</string>
+    <string name="change_fragment">Change Fragment</string>
+    <string name="change_fore_color_of_text">Change Fore-Color of Text</string>
+    <string name="change_background_color">Change Background of Text</string>
+    <string name="reset">RESET</string>
+</resources>
